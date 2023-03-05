@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (morpion.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "morpion.dart",
+            "console": "terminal"
+        }
+    ]
+}
